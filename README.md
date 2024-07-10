@@ -5,6 +5,11 @@
 如果后面作业的数据量太大我会考虑重新用Spark  
 另外我还打算去b站上点Spark课  
 
-7.10日  
-用pyspark写完了homework1_1  
+7.10  
+用pyspark写完了homework1_1朋友推荐  
 真香  
+
+7.10  
+homework1_2商品推荐  
+用colab跑apriori算法总是崩  
+所以用本地pycharm写的代码  
