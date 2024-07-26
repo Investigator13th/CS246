@@ -20,3 +20,10 @@ colab3   colab4  homework2-3  2-4
 
 7.23  
 homework3-2真折磨人，环境配死人
+
+7.26  
+除了homework4的所有作业均上传  
+hm4只有一个流数据代码作业，其他都是数学证明  
+太难了，不会做，跳过喵  
+课程链接：https://web.stanford.edu/class/cs246/  
+此库完结
